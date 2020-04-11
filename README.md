@@ -2,11 +2,11 @@
 weather app with vue.js
 
 
-###For start project:
+##For start project:
 ```
 npm run start
 ```
-###For build:
+##For build:
 ```
 npm run build
 ```
